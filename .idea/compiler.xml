@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+        </processorPath>
+        <module name="OpenOSRS.cache.main" />
+        <module name="OpenOSRS.deobfuscator.main" />
+        <module name="OpenOSRS.cache.test" />
+        <module name="OpenOSRS.runelite-api.main" />
+        <module name="OpenOSRS.wiki-scraper.main" />
+        <module name="OpenOSRS.runelite-jshell.main" />
+        <module name="OpenOSRS.http-api.main" />
+        <module name="OpenOSRS.injector.main" />
+        <module name="OpenOSRS.runelite-client.test" />
+        <module name="OpenOSRS.injector.test" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.20/18bcea7d5df4d49227b4a0743a536208ce4825bb/lombok-1.18.20.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.pf4j/pf4j/3.6.0/9025adf3f680069bb1b52863c9ec70d341e09b0/pf4j-3.6.0.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.25/da76ca59f6a57ee3102f8f9bd9cee742973efa8a/slf4j-api-1.7.25.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.zafarkhaja/java-semver/0.9.0/59a83ca73c72a5e25b3f0b1bb305230a11000329/java-semver-0.9.0.jar" />
+        </processorPath>
+        <module name="OpenOSRS.runelite-client.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.sisu/org.eclipse.sisu.inject/0.3.4/fc3be144183f54dc6f5c55e34462c1c2d89d7d96/org.eclipse.sisu.inject-0.3.4.jar" />
+        </processorPath>
+        <module name="OpenOSRS.runelite-script-assembler-plugin.main" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

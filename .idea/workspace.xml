@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="845bb4e2-7c4f-4f30-8c5b-76f52be50930" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/../illu-plugins">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../runelite">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/../runelite">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/../illu-plugins">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="R8 Plugins" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28f1RYZPqQwkxz9KH5zKZi939jR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../illu-plugins/build.gradle.kts" />
+  </component>
+  <component name="RunManager" selected="Gradle.shoot [bootstrapPlugins]">
+    <configuration name="illu-plugins [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../illu-plugins" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="illu-plugins [publishToMavenLocal]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../illu-plugins" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="runelite [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../runelite" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+            <option value="publishToMavenLocal" />
+            <option value=":runelite-client:publishToMavenLocal" />
+            <option value=":runelite-api:publishToMavenLocal" />
+            <option value=":http-api:publishToMavenLocal" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="shoot [bootstrapPlugins]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="bootstrapPlugins" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="shoot [build]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="-x test -x checkstyleMain -x checkstyleTest" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="shoot [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.runelite [build]" />
+      <item itemvalue="Gradle.shoot [build]" />
+      <item itemvalue="Gradle.illu-plugins [build]" />
+      <item itemvalue="Gradle.illu-plugins [publishToMavenLocal]" />
+      <item itemvalue="Gradle.shoot [clean]" />
+      <item itemvalue="Gradle.shoot [bootstrapPlugins]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.shoot [bootstrapPlugins]" />
+        <item itemvalue="Gradle.shoot [clean]" />
+        <item itemvalue="Gradle.illu-plugins [publishToMavenLocal]" />
+        <item itemvalue="Gradle.illu-plugins [build]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="845bb4e2-7c4f-4f30-8c5b-76f52be50930" name="Changes" comment="" />
+      <created>1651592829197</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651592829197</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="externalSubstitutions">
+    <module name="Illumine_Plugins.disablerendering.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iblackjack.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.icombinationrunecrafter.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iherbcleaner.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iitemcombiner.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.imagiccaster.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.imenudebugger.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.ipowerfighter.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.ipowerskiller.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iquestassistant.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iquesterfree.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iquickeater.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.irandomhandler.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.irooftopagility.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.itasktemplate.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iutils.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="Illumine_Plugins.iworldwalker.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.injection-annotations.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+        <option value="OpenOSRS.runescape-api.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoblastfurnace.main">
+      <set>
+        <option value="Illumine_Plugins.iutils.main_Provided" />
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoblastfurnace.test">
+      <set>
+        <option value="OpenOSRS.http-api.main_Compile" />
+        <option value="OpenOSRS.injection-annotations.main_Runtime" />
+        <option value="OpenOSRS.runelite-api.main_Compile" />
+        <option value="OpenOSRS.runelite-client.main_Compile" />
+        <option value="OpenOSRS.runelite-jshell.main_Runtime" />
+        <option value="OpenOSRS.runescape-api.main_Runtime" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoconstruction.main">
+      <set>
+        <option value="Illumine_Plugins.iutils.main_Provided" />
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoconstruction.test">
+      <set>
+        <option value="OpenOSRS.http-api.main_Compile" />
+        <option value="OpenOSRS.injection-annotations.main_Runtime" />
+        <option value="OpenOSRS.runelite-api.main_Compile" />
+        <option value="OpenOSRS.runelite-client.main_Compile" />
+        <option value="OpenOSRS.runelite-jshell.main_Runtime" />
+        <option value="OpenOSRS.runescape-api.main_Runtime" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autolog.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autolog.test">
+      <set>
+        <option value="OpenOSRS.http-api.main_Compile" />
+        <option value="OpenOSRS.injection-annotations.main_Runtime" />
+        <option value="OpenOSRS.runelite-api.main_Compile" />
+        <option value="OpenOSRS.runelite-client.main_Compile" />
+        <option value="OpenOSRS.runelite-jshell.main_Runtime" />
+        <option value="OpenOSRS.runescape-api.main_Runtime" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoteleblock.main">
+      <set>
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autoteleblock.test">
+      <set>
+        <option value="OpenOSRS.http-api.main_Compile" />
+        <option value="OpenOSRS.injection-annotations.main_Runtime" />
+        <option value="OpenOSRS.runelite-api.main_Compile" />
+        <option value="OpenOSRS.runelite-client.main_Compile" />
+        <option value="OpenOSRS.runelite-jshell.main_Runtime" />
+        <option value="OpenOSRS.runescape-api.main_Runtime" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autozmi.main">
+      <set>
+        <option value="Illumine_Plugins.iutils.main_Provided" />
+        <option value="OpenOSRS.http-api.main_Provided" />
+        <option value="OpenOSRS.runelite-api.main_Provided" />
+        <option value="OpenOSRS.runelite-client.main_Provided" />
+      </set>
+    </module>
+    <module name="R8_Plugins.autozmi.test">
+      <set>
+        <option value="OpenOSRS.http-api.main_Compile" />
+        <option value="OpenOSRS.injection-annotations.main_Runtime" />
+        <option value="OpenOSRS.runelite-api.main_Compile" />
+        <option value="OpenOSRS.runelite-client.main_Compile" />
+        <option value="OpenOSRS.runelite-jshell.main_Runtime" />
+        <option value="OpenOSRS.runescape-api.main_Runtime" />
+      </set>
+    </module>
+    <entry module="Illumine_Plugins.iutils.main" lib="Gradle: com.openosrs.externals:iutils:4.9.9" />
+    <entry module="OpenOSRS.http-api.main" lib="Gradle: com.openosrs:http-api:4.25.1" />
+    <entry module="OpenOSRS.injection-annotations.main" lib="Gradle: com.openosrs:injection-annotations:1.0" />
+    <entry module="OpenOSRS.runelite-api.main" lib="Gradle: com.openosrs:runelite-api:4.25.1" />
+    <entry module="OpenOSRS.runelite-client.main" lib="Gradle: com.openosrs:runelite-client:4.25.1" />
+    <entry module="OpenOSRS.runelite-jshell.main" lib="Gradle: com.openosrs:runelite-jshell:4.24.0" />
+    <entry module="OpenOSRS.runescape-api.main" lib="Gradle: com.openosrs.rs:runescape-api:4.25.1" />
+  </component>
+</project>

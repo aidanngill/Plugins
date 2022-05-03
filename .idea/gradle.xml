@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../illu-plugins" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../illu-plugins" />
+            <option value="$PROJECT_DIR$/../illu-plugins/buildSrc" />
+            <option value="$PROJECT_DIR$/../illu-plugins/disablerendering" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iblackjack" />
+            <option value="$PROJECT_DIR$/../illu-plugins/icombinationrunecrafter" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iherbcleaner" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iitemcombiner" />
+            <option value="$PROJECT_DIR$/../illu-plugins/imagiccaster" />
+            <option value="$PROJECT_DIR$/../illu-plugins/imenudebugger" />
+            <option value="$PROJECT_DIR$/../illu-plugins/ipowerfighter" />
+            <option value="$PROJECT_DIR$/../illu-plugins/ipowerskiller" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iquestassistant" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iquesterfree" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iquickeater" />
+            <option value="$PROJECT_DIR$/../illu-plugins/irandomhandler" />
+            <option value="$PROJECT_DIR$/../illu-plugins/irooftopagility" />
+            <option value="$PROJECT_DIR$/../illu-plugins/itasktemplate" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iutils" />
+            <option value="$PROJECT_DIR$/../illu-plugins/iworldwalker" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/../runelite" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/../runelite" />
+            <option value="$PROJECT_DIR$/../runelite/buildSrc" />
+            <option value="$PROJECT_DIR$/../runelite/cache" />
+            <option value="$PROJECT_DIR$/../runelite/deobfuscator" />
+            <option value="$PROJECT_DIR$/../runelite/http-api" />
+            <option value="$PROJECT_DIR$/../runelite/injection-annotations" />
+            <option value="$PROJECT_DIR$/../runelite/injector" />
+            <option value="$PROJECT_DIR$/../runelite/runelite-api" />
+            <option value="$PROJECT_DIR$/../runelite/runelite-client" />
+            <option value="$PROJECT_DIR$/../runelite/runelite-jshell" />
+            <option value="$PROJECT_DIR$/../runelite/runelite-mixins" />
+            <option value="$PROJECT_DIR$/../runelite/runelite-script-assembler-plugin" />
+            <option value="$PROJECT_DIR$/../runelite/runescape-api" />
+            <option value="$PROJECT_DIR$/../runelite/runescape-client" />
+            <option value="$PROJECT_DIR$/../runelite/wiki-scraper" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/autoblastfurnace" />
+            <option value="$PROJECT_DIR$/autoconstruction" />
+            <option value="$PROJECT_DIR$/autolog" />
+            <option value="$PROJECT_DIR$/autoteleblock" />
+            <option value="$PROJECT_DIR$/autozmi" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
